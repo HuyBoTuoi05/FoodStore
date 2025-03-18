@@ -1,0 +1,22 @@
+.ctn{
+    background-color: #222831;
+}
+.header{
+    background-image: url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    font-family: 'Dancing Script', cursive;
+}
+img{
+    width: 60%;
+    margin-left: 250px;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+}
+.para{
+    text-align: justify;
+    color: white;
+}

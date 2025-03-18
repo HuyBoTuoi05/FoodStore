@@ -1,0 +1,22 @@
+.header{
+    background-image: url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+    font-family: 'Dancing Script',cursive;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.header1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: 600;
+}
+img{
+    height: 350px;
+}

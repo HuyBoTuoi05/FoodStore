@@ -1,0 +1,32 @@
+.header{
+    background-image: url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+    font-family: 'Dancing Script',cursive;
+    font-size: 50px;
+    font-weight: 700;
+}
+.card{
+    width: 350px;
+    border-radius: 4%;
+    overflow: hidden;
+
+}
+.card .card-header{
+    height: 300px;
+    border-bottom-left-radius: 20%;
+}
+.modal-title{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(230, 191, 0);
+    font-weight: 600;
+}
+.modal-body input{
+    border: 2px solid rgb(255, 153, 0);
+    border-radius: 15px;
+}
